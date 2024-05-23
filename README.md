@@ -1,0 +1,1 @@
+Submission Proyek Akhir Aplikasi Klasifikasi Kanker kulit menggunakan model machine learning dan menggunakan Compute Engine untuk backend, App Engine untuk frontend di Google Cloud 
